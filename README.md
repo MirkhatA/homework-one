@@ -1,2 +1,2 @@
 Class diagram <br>
-![image](https://user-images.githubusercontent.com/57861727/162711004-fad3100a-11d5-412a-a613-65708e61001e.png)
+![image](https://user-images.githubusercontent.com/57861727/162711524-bc222875-a11e-457f-a363-5651aa89d4ce.png)
