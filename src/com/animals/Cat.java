@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Cat extends Mammal{
     private String eyeColor;

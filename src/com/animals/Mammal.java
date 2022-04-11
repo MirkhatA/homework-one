@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Mammal extends Animal {
     private boolean isPredator;

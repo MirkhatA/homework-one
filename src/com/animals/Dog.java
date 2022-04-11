@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Dog extends Mammal {
     private String color;

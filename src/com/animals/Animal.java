@@ -1,4 +1,4 @@
-package com.company;
+package com.animals;
 
 public class Animal {
     private Long id;
